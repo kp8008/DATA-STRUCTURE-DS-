@@ -1,0 +1,15 @@
+### DATA STRUCTURES
+
+### LAB - 1  (Simple Programs)
+  - [1. Circle Area](https://github.com/Akshay03x/DSA_LAB-Solution/blob/main/LAB-1_2%20%20(Array)/A/CircleArea.java)
+  - [2. Odd Even ](https://github.com/Akshay03x/DSA_LAB-Solution/blob/main/LAB-1_2%20%20(Array)/A/OddEven.java)
+  - [3. Vowel](https://github.com/Akshay03x/DSA_LAB-Solution/blob/main/LAB-1_2%20%20(Array)/A/Vowel.java)
+  - [4. Factorial](https://github.com/Akshay03x/DSA_LAB-Solution/blob/main/LAB-1_2%20%20(Array)/A/Factorial.java)
+  - [5. Factorial Recursion ](https://github.com/Akshay03x/DSA_LAB-Solution/blob/main/LAB-1_2%20%20(Array)/A/FactorialRecursion.java)
+  - [6. Power ](https://github.com/Akshay03x/DSA_LAB-Solution/blob/main/LAB-1_2%20%20(Array)/B/Power.java)
+  - [7. Factors ](https://github.com/Akshay03x/DSA_LAB-Solution/blob/main/LAB-1_2%20%20(Array)/B/Factors.java)
+  - [8. Prime ](https://github.com/Akshay03x/DSA_LAB-Solution/blob/main/LAB-1_2%20%20(Array)/B/Prime.java)
+  - [9. Time Convert](https://github.com/Akshay03x/DSA_LAB-Solution/blob/main/LAB-1_2%20%20(Array)/C/TimeConvert.java)
+  - [10. Day Convert](https://github.com/Akshay03x/DSA_LAB-Solution/blob/main/LAB-1_2%20%20(Array)/C/DayConverter.java)
+  - [11. Sum Series](https://github.com/Akshay03x/DSA_LAB-Solution/blob/main/LAB-1_2%20%20(Array)/C/SumSeries.java)
+  - [12. Armstrong](https://github.com/Akshay03x/DSA_LAB-Solution/blob/main/LAB-1_2%20%20(Array)/C/ArmstrongNumbers.java)
